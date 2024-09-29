@@ -399,7 +399,7 @@ nav ul li a:hover  {
 div.hero {
   height: 350px;
   background-color: #b4c6f0;
-  background-image: url('/public/bg.png');
+  background-image: url('~/public/bg.png');
   background-size: 400px;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -473,7 +473,7 @@ main article {
 
 /* This is an SEO and A11y change: Background image added with proper contrast */
 body {
-  background-image: url('/public/personal-budget-image3.jpg');
+  background-image: url('~/public/personal-budget-image3.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
